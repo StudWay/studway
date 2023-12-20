@@ -28,3 +28,5 @@ Vamos Debugar nossas mentes juntos!
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
+
+<p>Editado em: 19/12/2023</p>
